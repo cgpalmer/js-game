@@ -11,3 +11,19 @@
     width: 50px;
     margin: 20px;
 }
+
+#gameboard1 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+#gameboard1 {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+}
