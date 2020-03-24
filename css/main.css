@@ -14,15 +14,15 @@
 
 #gameboard1 {
     background-color: blue;
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     margin: 20px;
 }
 
 #gameboard2 {
     background-color: yellow;
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     margin: 20px;
 }
 
@@ -34,4 +34,16 @@
     width: 20px;
     margin: 10px;
     text-align: center;
+}
+
+.dice {
+    background-color: grey;
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    display: inline-block;
+}
+
+#rolldice {
+    display: block;
 }
