@@ -2,10 +2,12 @@
     background-color: blue;
     height: 50px;
     width: 50px;
+    margin: 20px;
 }
 
 #player2 {
     background-color: yellow;
     height: 50px;
     width: 50px;
+    margin: 20px;
 }
