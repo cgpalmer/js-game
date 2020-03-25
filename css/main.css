@@ -47,3 +47,26 @@
 #rolldice {
     display: block;
 }
+
+#displayEncounter {
+    background-color: green;
+    height: 150px;
+    width: 200px;
+    display: none;
+}
+
+.pokemon-image{
+    height: 50px;
+    width: 50px;
+    background-image:url("https://pokeres.bastionbot.org/images/pokemon/35.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.run, .catch {
+    background-color: lightgray;
+    height: 20px;
+    width: 30px;
+    display: inline-block;
+    margin: 10px;
+}
